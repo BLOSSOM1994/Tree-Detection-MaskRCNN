@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
+
     <title>Tree Detection on Street View Images</title>
-</head>
-<body>
+
     <h1>Tree Detection on Street View Images by Mask R-CNN</h1>
     
     <h2>Introduction</h2>
@@ -36,5 +33,3 @@
 
     <h2>Repository</h2>
     <p>The code for this paper is available on GitHub: <a href="https://github.com/BLOSSOM1994/Tree_maskRcnn">https://github.com/BLOSSOM1994/Tree_maskRcnn</a></p>
-</body>
-</html>
