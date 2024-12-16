@@ -8,14 +8,14 @@ The dataset used in this study comprises 200 annotated images collected from the
 
 Example dataset image:
 
-![Example dataset image showing annotated trees](example_tree_image.JPG)
+![Example dataset image showing annotated trees](Images/example_tree_image.JPG)
 
 ## Model Architecture
 The architecture used for this project is Mask R-CNN, a state-of-the-art convolutional neural network designed for object detection and instance segmentation. The network extends Faster R-CNN by adding a branch for predicting segmentation masks on each detected object.
 
 Architecture visualization:
 
-![Mask R-CNN Architecture](Architecture.PNG)
+![Mask R-CNN Architecture](Images/Architecture.PNG)
 
 ## Results
 The Mask R-CNN model demonstrated strong performance in detecting and segmenting trees. The results are summarized as follows:
@@ -26,9 +26,9 @@ The Mask R-CNN model demonstrated strong performance in detecting and segmenting
 
 Result visualizations:
 
-![Extracted Tree Segmentation Using Mask R-CNN](Figure4.PNG)
-![Detailed Pixel-Level Tree Segmentation in an Urban Environment via Mask R-CNN](Figure2.PNG)
-![Training Loss and Accuracy Curves.](training_loss_accuracy_curves.PNG)
+![Extracted Tree Segmentation Using Mask R-CNN](Images/Figure4.PNG)
+![Detailed Pixel-Level Tree Segmentation in an Urban Environment via Mask R-CNN](Images/Figure2.PNG)
+![Training Loss and Accuracy Curves.](Images/training_loss_accuracy_curves.PNG)
 
 ## Authors
 
@@ -37,5 +37,3 @@ Result visualizations:
 - **Somayeh Sobati Moghadam**: Co-supervisor ([s.sobati@hsu.ac.ir](mailto:s.sobati@hsu.ac.ir))
 - **Mehdi Zaferanieh**: Advisor ([mehdi.zaferanieh@gmail.com](mailto:mehdi.zaferanieh@gmail.com))
 
-## Repository
-The code for this paper is available on GitHub: [Tree_maskRcnn](https://github.com/BLOSSOM1994/Tree_maskRcnn)
