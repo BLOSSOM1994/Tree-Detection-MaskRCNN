@@ -33,7 +33,7 @@ Result visualizations:
 ## Authors
 
 - **Fatemeh Jokar**: Lead developer and main contributor ([shekufeh.j@gmail.com](mailto:shekufeh.j@gmail.com))
-- **Mahmood Amintoosi**: Primary supervisor ([m.amintoos@um.ac.ir](mailto:m.amintoos@um.ac.ir), [m.amintoos@hsu.ac.ir](mailto:m.amintoos@hsu.ac.ir))
+- **Mahmood Amintoosi**: Primary supervisor[Corresponding Author] ([m.amintoos@um.ac.ir](mailto:m.amintoos@um.ac.ir), [m.amintoos@hsu.ac.ir](mailto:m.amintoos@hsu.ac.ir))
 - **Somayeh Sobati Moghadam**: Co-supervisor ([s.sobati@hsu.ac.ir](mailto:s.sobati@hsu.ac.ir))
 - **Mehdi Zaferanieh**: Advisor ([mehdi.zaferanieh@gmail.com](mailto:mehdi.zaferanieh@gmail.com))
 
