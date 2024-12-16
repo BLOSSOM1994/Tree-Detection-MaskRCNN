@@ -4,7 +4,7 @@
 Urban greenery plays a vital role in enhancing the quality of life in cities. Identifying and cataloging trees is a crucial step toward sustainable urban planning. This project leverages Mask R-CNN, a powerful deep learning model, to detect and segment trees in street-view images efficiently.
 
 ## Dataset
-The dataset used in this study comprises 200 annotated images collected from the 27th Electrical Engineering Conference in Yazd, Iran (ICEE2019). The images were preprocessed to sizes of 1024 &times; 1024 and 2048 &times; 2048 to evaluate model performance on different resolutions.
+The dataset used in this study comprises 200 annotated images collected from the 27th Electrical Engineering Conference in Yazd, Iran. The images were preprocessed to sizes of 1024 &times; 1024 and 2048 &times; 2048 to evaluate model performance on different resolutions.
 
 Example dataset image:
 
